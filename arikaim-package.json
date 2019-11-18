@@ -6,6 +6,6 @@
     "description": "Markdown editor",
     "repository": "https://github.com/arikaim/markdown-editor-library.git",
     "files": [
-        "arikaim.js"
+        "editormd.min.js"
     ]    
 }
