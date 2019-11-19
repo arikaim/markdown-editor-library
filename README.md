@@ -6,6 +6,11 @@
 [Editor.md](https://github.com/pandao/editor.md) library for Arikaim CMS
 
 
+
+### Requirements 
+  * [Arikaim CMS](https://github.com/arikaim/arikaim)
+  * 
+
 ### Install
 ```bash
 
