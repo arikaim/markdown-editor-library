@@ -2,11 +2,11 @@
     "title": "Markdown editor",
     "package-type": "library",
     "name": "markdown-editor",
-    "version": "1.5.0",
+    "version": "1.11.2",
     "description": "Markdown editor",
     "repository": "https://github.com/arikaim/markdown-editor-library.git",
     "files": [
-        "editormd.min.js",
-        "editormd.preview.min.css"
+        "simplemde.min.js",
+        "simplemde.min.css"      
     ]    
 }

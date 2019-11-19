@@ -3,7 +3,7 @@
 
 
 
-[Editor.md](https://github.com/pandao/editor.md) library for Arikaim CMS
+[SimpleMDE](https://github.com/sparksuite/simplemde-markdown-editor) library for Arikaim CMS
 
 
 
