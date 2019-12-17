@@ -1,9 +1,9 @@
 ### Arikaim CMS Markdown Editor Library
-[Version: 1.0.0](https://img.shields.io/github/release/arikaim/markdown-editor-library.svg)
+![Version: 1.0.0](https://img.shields.io/github/release/arikaim/markdown-editor-library.svg)
 
 
 
-[SimpleMDE](https://github.com/sparksuite/simplemde-markdown-editor) library for Arikaim CMS
+![SimpleMDE](https://github.com/sparksuite/simplemde-markdown-editor) library for Arikaim CMS
 
 
 
