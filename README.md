@@ -1,4 +1,4 @@
-## Arikaim CMS Markdown Editor Library
+### Arikaim CMS Markdown Editor Library
 [Version: 1.0.0](https://img.shields.io/github/release/arikaim/markdown-editor-library.svg)
 
 
@@ -7,11 +7,11 @@
 
 
 
-### Requirements 
+#### Requirements 
   * [Arikaim CMS](https://github.com/arikaim/arikaim)
   
 
-### Install
+#### Install
 ```bash
 
 composer require arikaim/markdown-editor-library
